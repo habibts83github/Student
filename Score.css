@@ -1,0 +1,19 @@
+.Scores{
+    padding:2%;
+    background: #16bb1e;
+    color: #fff;
+    width: 30%;
+    border-radius:15px;
+    border: 2px solid #18cbd1;
+    box-shadow:2px 4px #49122d;
+}
+.Score{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+    
+}
+.scoreProps{
+    padding:0 1% 0 1%;
+}
